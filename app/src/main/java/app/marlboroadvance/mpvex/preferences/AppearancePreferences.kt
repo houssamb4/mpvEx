@@ -111,4 +111,5 @@ enum class AppLanguage(val code: String, val titleRes: Int) {
   Spanish("es", app.marlboroadvance.mpvex.R.string.pref_language_spanish),
   German("de", app.marlboroadvance.mpvex.R.string.pref_language_german),
   Arabic("ar", app.marlboroadvance.mpvex.R.string.pref_language_arabic),
+  Japanese("ja", app.marlboroadvance.mpvex.R.string.pref_language_japanese),
 }
